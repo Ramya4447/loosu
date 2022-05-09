@@ -1,0 +1,53 @@
+#box {
+    height: 50vh;
+    width: 50vh;
+    border-style: solid;
+    padding-top: 25vh;
+}
+
+body {
+    padding-top: 15vh;
+    background-image: url('index imagee.jpg');
+}
+
+#Maths {
+    height: 10vh;
+    width: 40vh;
+    font-size: 5vh;
+    background-color: rgb(218, 103, 90);
+}
+
+#Fun {
+    height: 10vh;
+    width: 40vh;
+    font-size: 5vh;
+    background-color: rgb(218, 103, 90);
+}
+
+#outline_of_maths {
+    height: 50vh;
+    width: 50vh;
+    border-style: solid;
+    padding-top: 10vh;
+}
+
+#Easy {
+    height: 10vh;
+    width: 30vh;
+    font-size: 4vh;
+    background-color: rgb(218, 103, 90);
+}
+
+#Medium {
+    height: 10vh;
+    width: 30vh;
+    font-size: 4vh;
+    background-color: rgb(218, 103, 90);
+}
+
+#Hard {
+    height: 10vh;
+    width: 30vh;
+    font-size: 4vh;
+    background-color: rgb(218, 103, 90);
+}
